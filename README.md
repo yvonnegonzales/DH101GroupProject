@@ -6,7 +6,7 @@
 #### Course: Digital Humanities 101; Summer 2021
 #### Instructors: Dr. Brooks Jessup
 
-I am a senior at UC Berkeley researching fandom and fanfiction as literature. My focus is on parasocial relationships and how they work in fan communities, and how those manifest in fan works and catharsis.
+I am a senior at UC Berkeley researching fandom and fanfiction as literature. My focus is on parasocial relationships and how they work in fan communities, and how those manifest in fan works and catharsis. This project was completed by myself (Yvonne Gonzales), Linsey Dinh, Jus Lim, and Rohan Parekh. I wrote the introduction, thesis, and section on Tara McPherson's "Why Are the Digital Humanities So White?," Linsey wrote on Gallon's "Making a Case for the Black Digital Humanities,” Rohan worked with Grimmer's “We Are All Social Scientists Now," and Jus wrote the connections with Nan Z Da's "Digital Humanities Debacle" as well as the conclusion.
 
 ## Abstract
 
