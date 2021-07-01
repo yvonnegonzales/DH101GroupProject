@@ -1,3 +1,5 @@
+![Digital + Humanities](header.png)
+
 # DH101GroupProject
 
 #### Project by Linsey Dinh, Yvonne Gonzales, Jus Lim, Rohan Parekh	
